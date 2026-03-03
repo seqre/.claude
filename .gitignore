@@ -4,3 +4,6 @@
 # Allowed files
 !.gitignore
 !settings.json
+
+# Allowed directories
+!skills/

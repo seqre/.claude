@@ -1,0 +1,3 @@
+[submodule "submodules/oaustegard_claude-skills"]
+	path = submodules/oaustegard_claude-skills
+	url = https://github.com/oaustegard/claude-skills.git
