@@ -14,3 +14,4 @@ session-env
 shell-snapshots
 telemetry
 todos
+stats-cache.json

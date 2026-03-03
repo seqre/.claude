@@ -7,3 +7,5 @@
 - [ ] agent teams
 - [ ] subagents
 - [ ] plugins
+- [ ] https://github.com/obra/superpowers
+- [ ] https://github.com/OthmanAdi/planning-with-files/blob/master/skills/planning-with-files/SKILL.md
