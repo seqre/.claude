@@ -1,0 +1,6 @@
+# Default deny
+*
+
+# Allowed files
+!.gitignore
+!settings.json
