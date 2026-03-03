@@ -1,1 +1,16 @@
-{}
+{
+	"autoMemoryEnabled": true,
+	"attributtion": {
+		"commit": "Co-Authored-By: Claude <noreply@anthropic.com>",
+		"pr": ""
+	},
+	"fileSuggestion": {
+		"type": "command",
+		"command": "$HOME/.claude/tools/file-suggestion.sh"
+	},
+	"permissions": {
+		"deny": [
+			"Read($HOME/.claude/.credentials.json)"
+		]
+	}
+}

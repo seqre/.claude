@@ -1,9 +1,16 @@
-# Default deny
-*
+# Deny credentials file
+.credentials.json
 
-# Allowed files
-!.gitignore
-!settings.json
-
-# Allowed directories
-!skills/
+# Deny pointless stuff
+cache
+debug
+downloads
+file-history
+history.jsonl
+plans
+plugins
+projects
+session-env
+shell-snapshots
+telemetry
+todos
