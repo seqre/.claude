@@ -2,11 +2,11 @@
 .credentials.json
 
 # Deny pointless stuff
+backups
 cache
 debug
 downloads
 file-history
-history.jsonl
 plans
 plugins
 projects
@@ -14,4 +14,7 @@ session-env
 shell-snapshots
 telemetry
 todos
+
+history.jsonl
 stats-cache.json
+mcp-needs-auth-cache.json
