@@ -17,5 +17,10 @@
   "attributtion": {
     "commit": "Co-Authored-By: Claude <noreply@anthropic.com>",
     "pr": ""
+  },
+  "statusLine": {
+    "type": "command",
+    "command": "bunx -y ccstatusline@latest",
+    "padding": 0
   }
 }
